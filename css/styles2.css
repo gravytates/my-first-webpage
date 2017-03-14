@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: #708ADB;
+}
+
+body {
+  background-color: #BCF3D0;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  text-weight: 900;
+  color: #708AD8;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
