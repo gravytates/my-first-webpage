@@ -1,4 +1,4 @@
-#_My First Webpage_
+# _My First Webpage_
 
 #### _HTML exercise for Epicodus, 3/14/17_
 
@@ -30,5 +30,6 @@ Simple HTML website. Most pictures are links to further websites as well for fur
 
 ### License
 
-Copyright (c) 2017 Grady Shelton & Nicole Santamaria
+Copyright (c) 2017 Grady Shelton & Nicole Santamaria.
+
 This software is licensed under the MIT license.
